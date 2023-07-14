@@ -5,7 +5,7 @@
 <p align="center"> Seu Cardápio digital.. </p>
 
 <h4 align="center"> 
-	 Status: Em desenvolvimento...
+	 Status: finalizadohttps://github.com/Marcelocerqueira/Frontend_FoodExplorer...
 </h4>
 
 <p align="center">
@@ -77,10 +77,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ git clone https://github.com/Marcelocerqueira/API_Nodejs
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ cd + sua pasta + git clone https://github.com/Marcelocerqueira/API_Nodejs
 
 # Instale as dependências
 $ npm install
@@ -105,10 +105,10 @@ $ password: 112233
 ```bash
 
 # Clone este repositório
-$ https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ https://github.com/Marcelocerqueira/Frontend_FoodExplorer
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ cd + sua pasta + git clone https://github.com/Marcelocerqueira/Frontend_FoodExplorer
 
 
 # Instale as dependências com:
@@ -143,7 +143,7 @@ Neste desafio foram abordados os seguintes temas:
 
 ---
 ## Deploy do projeto.
-https://food-explorer-lidiane-diniz.netlify.app/
+https://endearing-beijinho-91666a.netlify.app//
 
 
 ---
@@ -152,6 +152,6 @@ https://food-explorer-lidiane-diniz.netlify.app/
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
+Made with Marcelo Cerqueira  [Get in Touch!](https://www.linkedin.com/in/marcelo-cerqueira-0a0b42178/)
 
 ---
